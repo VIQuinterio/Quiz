@@ -1,0 +1,16 @@
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\bin\Debug\net5.0\Quiz.exe
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\bin\Debug\net5.0\Quiz.deps.json
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.json
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.dev.json
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\bin\Debug\net5.0\Quiz.dll
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\bin\Debug\net5.0\ref\Quiz.dll
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\bin\Debug\net5.0\Quiz.pdb
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\obj\Debug\net5.0\Quiz.csproj.AssemblyReference.cache
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\obj\Debug\net5.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfoInputs.cache
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfo.cs
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\obj\Debug\net5.0\Quiz.csproj.CoreCompileInputs.cache
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\obj\Debug\net5.0\Quiz.dll
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\obj\Debug\net5.0\ref\Quiz.dll
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\obj\Debug\net5.0\Quiz.pdb
+D:\Fatec ADS\1º Ciclo\Programação em Microinformática\Quiz\Quiz\obj\Debug\net5.0\Quiz.genruntimeconfig.cache
